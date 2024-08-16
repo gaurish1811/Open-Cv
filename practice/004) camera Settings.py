@@ -18,7 +18,7 @@ while True:
     frame= cv2.imread("Gray.jpg")
 
 #Write Akshansh on top
-    frame=cv2.putText(frame,'Akshansh',(1280//2,30),cv2.FONT_HERSHEY_COMPLEX,0.7,(0,i//2,255-i),1)
+    frame=cv2.putText(frame,'Gaurish',(1280//2,30),cv2.FONT_HERSHEY_COMPLEX,0.7,(0,i//2,255-i),1)
     k=cv2.waitKey(1)
     if k!=-1:                       #Press any key to escape
         break

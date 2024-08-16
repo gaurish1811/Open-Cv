@@ -1,4 +1,5 @@
-# OpenCV Projects by Akshansh Chugh
+
+# OpenCV Projects by Gaurish
 
 This repository contains various projects and code snippets related to OpenCV, an open-source computer vision and machine learning software library.
 
@@ -15,9 +16,6 @@ This repository contains various projects and code snippets related to OpenCV, a
 Provide instructions on how to install or setup your projects. Include any prerequisites, dependencies, or system requirements.
 
 ```bash
-# Clone the repository
-git clone https://github.com/Akshansh-Chugh/Opencv.git
-
 # Navigate to the directory
 cd Opencv
 
@@ -33,4 +31,4 @@ pip install -r requirements.txt
 - Put text in videos , images
 
 ## Contributers
-- Akshansh Chugh
+- Gaurish
